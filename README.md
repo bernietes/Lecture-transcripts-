@@ -6,6 +6,8 @@ Raw lecture transcripts from Denver Seminary, Fall 2026, organized by course. Th
 |---|---|
 | **PC500 — Pastoral Care and Counseling Relationships** | [`PC500-Lecture-Transcripts/`](PC500-Lecture-Transcripts/) |
 | **OT 50101 — Hebrew I** | [`Hebrew-I-Lecture-Transcripts/`](Hebrew-I-Lecture-Transcripts/) |
+| **TM500 — Training and Mentoring** | [`TM500-Lecture-Transcripts/`](TM500-Lecture-Transcripts/) |
+| **Theological Reflection** | [`Theological-Reflection-Lecture-Transcripts/`](Theological-Reflection-Lecture-Transcripts/) |
 
 ---
 
@@ -51,3 +53,30 @@ Organized by class session, with the textbook chapter each class covers. Each cl
 - **Class 5** comes from the Zoom recording `GMT20261005-143232` (Oct 5, 2026). It and **Classes 8–9** were WebVTT caption files; they have been converted to readable text (timestamps removed, consecutive lines by the same speaker merged) with speaker labels kept.
 - **Class 6** was saved twice in the project, as "Class 6" and "Lecture 6", with identical text; it appears here once. Its recording opens with a one-on-one tutoring session before the class itself begins.
 - **Class 7**'s recording starts partway into the lesson on numbers.
+
+---
+
+## TM500 — Training and Mentoring
+
+Organized by class session. The course meets every other week; each session opens with a Celtic Christian story on one of the four relationships (I and myself, I and God, I and others, I and creation).
+
+| Session | Week | Transcript | Covers |
+|---|---|---|---|
+| 1 | 1 | [Course Introduction, Bearing God's Name, and the Sacred–Secular Divide](TM500-Lecture-Transcripts/Session-01_Course-Introduction-Bearing-Gods-Name-and-the-Sacred-Secular-Divide.md) | Syllabus and assignments (mini learning plan, mentor interview, integrative summary paper); Exodus 20:7 read as "you must not misrepresent Yahweh's reputation" (*nasa*, *shem*, "in vain"); the sacred–secular gap; *Every Moment Holy*; the whole-life spirituality circle |
+| 2 | 3 | [Cuthbert and the Self, Character Formation, and Adult Learning Skills](TM500-Lecture-Transcripts/Session-02_Cuthbert-Character-Formation-and-Adult-Learning-Skills.md) | Saint Cuthbert and "I and myself"; David Brooks on résumé vs. eulogy virtues; defining Christian character; pedagogy vs. andragogy (Knowles, Mezirow); the six adult learning skills and self-scoring |
+| 3 | 5 | [Columba and the Soul Friend, Assignment Overview, and Adult Learning Skills Discussion](TM500-Lecture-Transcripts/Session-03_Columba-and-the-Soul-Friend-and-Adult-Learning-Skills-Discussion.md) | Saint Columba, Iona, and the *anam cara* ("I and others"); mini learning plan and first self-assessment; small-group peer-mentoring discussion of self-assessment scores |
+
+### Notes on the TM500 transcripts
+
+- **The project's doc names don't match the session order.** "Class 2" is the first session (Session 1) and "Class 1" is the second (Session 2): Session 2 opens by recalling Session 1's sacred–secular discussion, and Session 3 recalls the Cuthbert story from Session 2.
+- **Session 3's second hour is missing.** The project has two docs both named "Lecture 3". Only one could be retrieved: the first hour (Columba and the group discussion). The other is the second-hour lecture on mentoring (interdependence, balcony and ground-floor mentors, finding a mentor). Renaming it in the project to something unique (for example "Lecture 3 – Mentoring") will let it be added.
+
+---
+
+## Theological Reflection
+
+| Transcript | Covers |
+|---|---|
+| [Theological Reflection Method and Ministry Case Studies](Theological-Reflection-Lecture-Transcripts/Theological-Reflection-Method-and-Ministry-Case-Studies.md) | The designated-gift dilemma; why "practical theology" became "theological reflection"; attending, drawing on the resources of faith, and responding with a range of faithful options; the Wesleyan quadrilateral (Scripture, reason, tradition, experience); four case studies from the instructor's pastoral ministry |
+
+The course code wasn't recorded in the project. The class falls in early November 2026; it mentions the Evangelical Theological Society meeting in Denver (Nov 17–19), and that the class won't meet on Nov 19.
